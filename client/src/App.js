@@ -1,9 +1,10 @@
 import './App.css';
+import Index from './views/Index';
 
 function App() {
   return (
     <>
-      <h1 className="text-center">Hola Mundo desde React</h1>
+      <Index />
     </>
   );
 }
