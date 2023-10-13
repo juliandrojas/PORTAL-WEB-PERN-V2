@@ -1,0 +1,4 @@
+# Ignora la carpeta .vscode
+.vscode/  
+# Ignora la carpeta client
+client/   
